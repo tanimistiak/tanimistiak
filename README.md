@@ -1,55 +1,3 @@
-
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-            background-color: #0d1117;
-            color: #c9d1d9;
-        }
-        .readme-container {
-            max-width: 900px;
-            margin: 2rem auto;
-            padding: 2rem;
-            border: 1px solid #30363d;
-            border-radius: 6px;
-            background-color: #0d1117;
-        }
-        .readme-content h1, .readme-content h3 {
-            border-bottom: 1px solid #30363d;
-            padding-bottom: 0.3em;
-            margin-top: 24px;
-            margin-bottom: 16px;
-        }
-        .readme-content a {
-            color: #58a6ff;
-            text-decoration: none;
-        }
-        .readme-content a:hover {
-            text-decoration: underline;
-        }
-        .readme-content ul {
-            list-style-type: disc;
-            padding-left: 2em;
-        }
-        .readme-content li {
-            margin-bottom: 0.25em;
-        }
-        .readme-content img {
-            display: inline-block;
-            vertical-align: middle;
-        }
-        .readme-content p > a > img {
-             margin-right: 5px;
-             margin-bottom: 5px;
-        }
-    </style>
-</head>
-<body>
-
-    <div id="readme-container" class="readme-container">
-        <div id="readme-content" class="readme-content"></div>
-    </div>
-
-    <script>
-        const markdownContent = `
 <div align="center">
   <h1>Hi there, I'm Tanim Istiak 👋</h1>
   <h3>Bridging the gap between a great idea and a polished, real-world application.</h3>
@@ -145,7 +93,6 @@ I have experience with a wide range of technologies. Here are some of the ones I
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanimistiak&show_icons=true&locale=en&theme=tokyonight" alt="tanimistiak" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimistiak&theme=tokyonight" alt="tanimistiak" />
 </p>
 
@@ -158,10 +105,3 @@ I have experience with a wide range of technologies. Here are some of the ones I
   <a href="https://linkedin.com/in/tanim-istiak" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="tanim-istiak" /></a>
   <a href="https://fb.com/tanim.istiak.personal" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="tanim.istiak.personal" /></a>
 </p>
-        `;
-
-        document.getElementById('readme-content').innerHTML = marked.parse(markdownContent);
-    </script>
-
-</body>
-</html>
