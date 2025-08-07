@@ -14,7 +14,7 @@ I'm a Full-Stack Developer currently working at **SKN IT** and based in Dhaka, B
 
 * 🏢 I'm currently working as a Full-Stack Developer at **[SKN IT](https://sknit.co.uk/)**.
 * 🌱 My current focus is on diving deeper into **Cloud Engineering (AWS), Python, and AI/ML**.
-* 💻 I'm proud to have contributed to projects like **[TaxPlus Accountants](https://www.taxplusaccountants.com/)**, **[Psycure PLC](https://thepsycure.com/)**, **[Psycure App](https://play.google.com/store/apps/details?id=ongshak.com.psycure)**, **[SKN IT](https://sknit.co.uk/)**.
+* 💻 I'm proud to have contributed to projects like **[TaxPlus Accountants](https://www.taxplusaccountants.com/)**, **[Psycure PLC](https://thepsycure.com/)**, **[Psycure App](https://play.google.com/store/apps/details?id=ongshak.com.psycure)**, **[SKN IT](https://sknit.co.uk/)**, **[Outback Comms](https://outbackcomms.com.au/)**, **[Powerpulze](https://powerpulze.com/)**.
 * 📄 Feel free to check out my **[Resume](https://drive.google.com/file/d/1CYJ0_02lfekKKqKl_h7iuXD_QhCeIiId/view?usp=sharing)** for more details.
 * ⚡ Fun fact: The first webcam was invented at Cambridge University to monitor a coffee pot!
 
